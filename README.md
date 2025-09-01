@@ -22,3 +22,8 @@ Yali-Recon/
 │── subtrace.py       # Subdomain tracer
 │── whois_lookup.py   # WHOIS domain information fetcher
 │── README.md         # Project documentation
+
+
+This repo is for educational & authorized security testing only.
+Do not run these tools against systems you don’t own or don’t have explicit permission to test.
+You are responsible for your own actions.
